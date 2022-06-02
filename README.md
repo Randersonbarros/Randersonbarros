@@ -3,6 +3,7 @@
 - 🔭 Trabalho atualmente com Front-end
 - 🌱 Estou estudando JavaScript
 - 😄 Pronouns: ele/dele
+- 📬 contate-me: randersonaalbuquerque@gmail.com
 
 
 <div align="center">
