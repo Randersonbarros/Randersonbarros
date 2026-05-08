@@ -1,9 +1,9 @@
 ### Olá Bem vindo ao meu Github !!
 
-- 🔭 Trabalho atualmente com Front-end
-- 🌱 Estou estudando JavaScript
+- 🔭 Trabalho atualmente com análise de dados
+- 🌱 Estou estudando Power BI e Python
 - 😄 Pronouns: ele/dele
-- 📬 contate-me: randersonaalbuquerque@gmail.com
+- 📬 contate-me: randerson_albuquerque@hotmail.com
 
 
 <div align="center">
